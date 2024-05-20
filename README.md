@@ -1,5 +1,5 @@
 # OceanClaimer
-Auto Wave Wallet on Sui Claimer (OCEAN)<br>
+Auto Multi Wave Wallet on Sui Claimer (OCEAN)<br>
 - Register link : [Register Here](t.me/waveonsuibot/walletapp?startapp=1528002)
 
 # Requirement
