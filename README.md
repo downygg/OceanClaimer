@@ -8,6 +8,7 @@ Auto Multi Wave Wallet on Sui Claimer (OCEAN)<br>
 
 # How To use
 - ```git clone https://github.com/downygg/OceanClaimer.git```
+- ```cd OceanClaimer```
 - ```npm i```
 - ```set your mnemonic on mnemonic.json```
 - ```npm start```
