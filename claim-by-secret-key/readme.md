@@ -8,6 +8,7 @@ Auto Multi Wave Wallet on Sui Claimer By Secret Key (OCEAN)<br>
 
 # How To use
 - ```git clone https://github.com/downygg/OceanClaimer.git```
+- ```cd OceanClaimer```
 - ```npm i```
 - ```cd claim-by-secret-key```
 - ```set your secret key on secret-key.json```
