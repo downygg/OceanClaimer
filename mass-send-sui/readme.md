@@ -13,3 +13,4 @@ Auto Multi Wave Wallet on Sui Claimer By Secret Key (OCEAN)<br>
 - ```cd mass-send-sui```
 - ```set your destination address at address.json```
 - ```node index.js```
+- ```API KEY : trial```
