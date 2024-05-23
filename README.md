@@ -7,8 +7,22 @@ Auto Multi Wave Wallet on Sui Claimer (OCEAN)<br>
 - NodeJs v18 or latest
 
 # How To use
+## Legacy Version
 - ```git clone https://github.com/downygg/OceanClaimer.git```
 - ```cd OceanClaimer```
 - ```npm i```
 - ```set your mnemonic on mnemonic.json```
 - ```npm start```
+
+## V1.1.0
+- ```git clone https://github.com/downygg/OceanClaimer.git```
+- ```cd OceanClaimer```
+- ```npm i```
+- ```cd v1.1.0```
+- ```edit source.json base on wallet import format (secret key / mnemonic)```
+- ```node index.js```
+
+# Already Donate ?
+- Your IP = Your API-KEY
+- Free API-Key : ```ocean```
+
