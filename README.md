@@ -13,6 +13,11 @@ Auto Multi Wave Wallet on Sui Claimer (OCEAN)<br>
 - ```edit source.json base on wallet import format (secret key / mnemonic)```
 - ```node index.js```
 
+# Feature
+- Auto Claim Ocean
+- Auto Transfer Ocean
+- Mass Sender SUI
+  
 # Already Donate ?
 - Your IP = Your API-KEY
 - Free API-Key : ```ocean```
